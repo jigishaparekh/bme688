@@ -133,7 +133,6 @@ set(ARDUINO_LIBRARY_BME68x_Sensor_library_SRCS
   libraries/BME68x_Sensor_library/src/bme68x/bme68x.c)
 
 set(ARDUINO_LIBRARY_bsec2_SRCS 
-  libraries/bsec2/src/libalgobsec.a 
   libraries/bsec2/src/bsec2.cpp
   libraries/bsec2/src/CommMux/CommMux.cpp)
 
