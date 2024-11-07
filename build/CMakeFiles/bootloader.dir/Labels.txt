@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Jigisha/ESP-IDF/bme688_NW/build/CMakeFiles/bootloader
+D:/Jigisha/ESP-IDF/bme688_NW/build/CMakeFiles/bootloader.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/CMakeFiles/bootloader-complete.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

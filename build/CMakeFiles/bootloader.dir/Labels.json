@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Jigisha/ESP-IDF/bme688_NW/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
